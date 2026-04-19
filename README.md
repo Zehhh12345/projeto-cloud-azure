@@ -17,3 +17,14 @@ Projeto prático utilizando Microsoft Azure com criação de duas máquinas virt
 
 ## Segurança
 Testes de portas abertas e controle de acesso via NSG.
+
+## Tecnologias utilizadas
+
+- Microsoft Azure
+- Windows Server
+- Ubuntu Linux
+- RDP
+- SSH
+- IIS
+- Python HTTP Server
+- Nmap
